@@ -9,10 +9,7 @@ node-modules/ dist/ logs/
 
 
 
-#img
-*.jpeg
-*.png
-img/
+
 #videos
 *.mp4
 #IDE-VSCode
